@@ -1,0 +1,10 @@
+*.npz
+*.pyc
+*.pth
+!best.pth
+*.0
+.vscode
+data/figs
+data/visual
+*.mp4
+__pycache__
